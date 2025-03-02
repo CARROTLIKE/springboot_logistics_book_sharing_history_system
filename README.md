@@ -1,2 +1,42 @@
 # springboot_logistics_book_sharing_history_system
-本仓库包含三个基于Spring Boot开发的项目：物流管理系统专注于物流行业，提供物流配送、物流管理、库存管理、订单管理、运输调度等功能，帮助优化物流管理流程，提高物流效率，确保货物准时配送并提升仓库管理水平；闲置图书分享系统通过一个平台实现闲置图书的分享与借阅，支持图书管理、借阅记录、用户评价等功能，推动闲置图书的有效利用和资源共享，倡导环保和图书资源的循环利用；线上历史馆藏系统为数字化历史文物和资料提供在线展示与管理，提供馆藏信息管理、历史资料查询、虚拟展览等功能，助力历史文化遗产的保护与传播，通过在线平台展示和管理历史文物及文化遗产。
+
+📦 SpringBoot多功能项目仓库 🎯
+
+本仓库整合了三个基于 SpringBoot 开发的高实用性项目，涵盖**物流管理**、**闲置图书分享**、**历史馆藏管理**等多个领域，专注于**物流管理**、**图书分享**、**历史文化遗产保护**等功能，适用于开发实践、学习与功能拓展！🚀
+
+🚚 **物流管理系统** —— 专注于**物流**和**管理**，提供**订单管理**、**运输调度**、**库存管理**等功能，优化**物流配送**和**物流运营效率** 📦📈
+📚 **闲置图书分享系统** —— 提供**闲置图书分享**、**图书借阅管理**、**图书资源共享**，推动**闲置**资源的循环利用，打造一个便捷的**图书分享**平台 📖🤗
+🏛️ **线上历史馆藏系统** —— 提供**历史馆藏管理**、**虚拟展览**、**历史资料查询**，促进**文化遗产保护**和**历史资料展示** 📚✨
+
+**项目部署说明**✨：
+
+推荐使用：**谷歌浏览器**
+
+**后台地址**😎
+
+http://localhost:8080/springboot/admin/dist/index.html
+
+**前台地址**😎
+
+http://localhost:8080/springboot/front/index.html
+
+在**src\main\resources\application.yml中**编辑数据库配置🎉										
+url:jdbc:mysql://127.0.0.1:3306/springbootuseUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+username: root
+password: 123456
+
+**文档预览**👀
+
+![](./images/预览.png)
+
+**其他项目合集**✨
+
+![](./images/1.png)
+
+![](./images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
+![](images/5.png)
